@@ -17,6 +17,5 @@ ___
 [```
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Abdallah7Salem)](https://github.com/LordDashMe/github-contribution-stats/)
 
-```
 
 ![](https://komarev.com/ghpvc/?username=Abdallah7Salem)
