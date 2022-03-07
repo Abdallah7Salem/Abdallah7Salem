@@ -2,9 +2,9 @@
 
 ### <center>Feel Free To contact me anytime<center>
 
-[Linkedin](https://www.linkedin.com/in/abdallah-alaa-salem-abb61016a/) 
-[Gmail](abdallahalaasalem7@gmail.com) 
-[Hackerrank](https://www.hackerrank.com/abdallahalaasal1)
+[Linkedin](https://www.linkedin.com/in/abdallah-alaa-salem-abb61016a/) <br />
+[Gmail](abdallahalaasalem7@gmail.com) <br />
+[Hackerrank](https://www.hackerrank.com/abdallahalaasal1) <br />
 
 1. Computer Engineering & Automatic Control Student.
 2. Software Team Member at Squad X.
