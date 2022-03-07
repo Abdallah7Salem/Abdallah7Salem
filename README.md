@@ -1,5 +1,7 @@
-                                                 # Welcome to my Github Profile
-<center><h3>My Name is Abdallah Alaa Salem<h3><center>
+> <center>*Welcome to my Github Profile*<center>
+## My Name is Abdallah Alaa Salem
+  
+
 <!--
 **Abdallah7Salem/Abdallah7Salem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
