@@ -4,4 +4,4 @@
 ```HTML
 <h4>I love Embedded Systems<h4>
 ```
-(Linkedin)[https://www.linkedin.com/in/abdallah-alaa-salem-abb61016a/]
+[Linkedin](https://www.linkedin.com/in/abdallah-alaa-salem-abb61016a/)
