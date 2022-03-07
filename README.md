@@ -10,7 +10,7 @@ ___
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Abdallah7Salem)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ___
-![](https://komarev.com/ghpvc/?username=Abdallah7Salem)
+![](https://komarev.com/ghpvc/?username=Abdallah7Salem&label=Thank+you+for+visiting+my+profile,+See+you+soon!)
 ___
 
 #### <center>Feel Free To contact me anytime</center>
