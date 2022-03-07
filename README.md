@@ -3,7 +3,7 @@
 1. Computer Engineering & Automatic Control Student.
 2. Software Team Member at Squad X.
 3. Embedded Software Lover.
-4. I can type up to ==80== words per minute.
+4. I can type up to **80** words per minute.
 5. I can communicate in English very well, also I am learning German.
 
 ___
