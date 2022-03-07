@@ -14,6 +14,9 @@ ___
 4. I can type up to ==80== words per minute.
 5. I can communicate in English very well, also I am learning German.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallah7Salem)](https://github.com/anuraghazra/github-readme-stats)
+[```
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Abdallah7Salem)](https://github.com/LordDashMe/github-contribution-stats/)
 
+```
 
+![](https://komarev.com/ghpvc/?username=your-github-Abdallah7Salem)
