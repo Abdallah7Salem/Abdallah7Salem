@@ -51,4 +51,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Abdallah7Salem">
 </a>
-<a href="https://github.com/Abdallah7Salem?tab=followers"><img src="https://img.shields.io/github/followers/Abdallah7Salem?label=Followe+Me&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Abdallah7Salem?tab=followers"><img src="https://img.shields.io/github/followers/Abdallah7Salem?label=Follow+Me&style=social" alt="GitHub Badge"></a>
