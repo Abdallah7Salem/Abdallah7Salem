@@ -24,7 +24,7 @@
 
 ## 📊 My Github Stats
 [
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Abdallah7Salem)](https://github.com/LordDashMe/github-contribution-stats/)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Abdallah7Salem)](https://github.com/Abdallah7Salem/github-contribution-stats/)
 
 
   <br/>
