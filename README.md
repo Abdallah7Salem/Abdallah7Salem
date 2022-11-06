@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdallahalaasalem7@gmail.com**
 
-- ⚡ Fun fact **I love typing a lot on keyboard fast**
+- ⚡ Fun fact **I love typing a lot on keyboard. My average speed : +80 words per minute**
 
 
 <p align="center">
