@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 **Former Embedded Software Intern** at **Valeo**.
+- 🔭 Former **Embedded Software Intern** at **Valeo**.
 
 - 🌱 I’m currently learning **Embedded Software Development**
 
