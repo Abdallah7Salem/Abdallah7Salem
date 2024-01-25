@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Squad X Team](https://www.facebook.com/SquadXTeam/)**
+- 🔭 **Former Embedded Software Intern** at **Valeo**.
 
 - 🌱 I’m currently learning **Embedded Software Development**
 
