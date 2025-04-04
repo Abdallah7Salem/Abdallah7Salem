@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Former **Embedded Software Intern** at **Valeo**.
+- 🔭 Former **Software Engineer Intern** at **Valeo**.
 
-- 🌱 I’m currently learning **Software Testing**
+- 🌱 I’m currently learning **Software Testing / Test Automation**
 
 - 📫 How to reach me **abdallahalaasalem7@gmail.com**
 
